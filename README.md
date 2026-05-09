@@ -26,7 +26,7 @@ We use the following publicly available datasets. No data is included in this re
 
 | Folder | Dataset | Domain | Labels | Link |
 |---|---|---|---|---|
-| `FEVER/` | CLIMATE-FEVER | Climate science | SUPPORTS / REFUTES / NOT ENOUGH INFO | https://www.sustainlab.co/climatefever |
+| `FEVER/` | CLIMATE-FEVER | Climate science | SUPPORTS / REFUTES / NOT ENOUGH INFO | https://huggingface.co/datasets/tdiggelm/climate_fever|
 | `Healthver/` | HealthVer | Health claims | SUPPORTS / REFUTES / NEUTRAL | https://github.com/sarrouti/HealthVer |
 | `PubHealth/` | PubHealth | Public health | SUPPORTS / REFUTES / NEUTRAL / MIXTURE / UNPROVEN | https://github.com/neemakot/Health-Fact-Checking |
 | `SciClaimHunt/` | SciClaimHunt | Scientific papers | POSITIVE / NEGATIVE | https://huggingface.co/datasets/AnshulS/dataset_for_scicllaimhunt |
